@@ -1,0 +1,1 @@
+{"template":"area","theme":"base","spec":{"labels":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"series":[{"name":"Desktop","values":[342,876,512,630,458,782,394,924,646,533,806,270]},{"name":"Mobile","values":[185,491,291,391,309,448,233,558,367,358,515,148]}]}}
