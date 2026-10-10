@@ -1,0 +1,1 @@
+{"template":"bar","theme":"base","spec":{"labels":["Mon","Tue","Wed"],"series":[{"name":"draw","values":[1200,1800,1500]},{"name":"quickchart","values":[900,1000,1100]}]}}
