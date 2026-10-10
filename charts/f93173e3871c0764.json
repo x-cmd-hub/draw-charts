@@ -1,0 +1,1 @@
+{"template":"line","theme":"base","spec":{"title":"Trend","labels":["Jan","Feb","Mar","Apr","May","Jun"],"series":[{"name":"draw","values":[20,27,25,32,30,38]},{"name":"qc","values":[15,17,17,19,20,18]}]}}
