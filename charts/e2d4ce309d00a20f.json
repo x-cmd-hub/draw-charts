@@ -1,1 +1,0 @@
-{"template":"line","theme":"evil-glow","spec":{"labels":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"series":[{"name":"Payouts","values":[430,430,470,530,670,770,700,730,810,860,880,910]},{"name":"Pending","values":[600,540,500,380,320,210,250,230,180,150,130,110]}]}}
