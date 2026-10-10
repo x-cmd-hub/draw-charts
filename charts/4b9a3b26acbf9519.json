@@ -1,0 +1,1 @@
+{"template":"combo","theme":"evil","spec":{"labels":["Jan","Feb","Mar"],"series":[{"name":"Revenue","values":[42,58,41],"kind":"bar"},{"name":"Profit","values":[18,24,16],"kind":"line"}]}}
