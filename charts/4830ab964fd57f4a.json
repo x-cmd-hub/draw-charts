@@ -1,0 +1,1 @@
+{"template":"bar","theme":"base","stack":true,"spec":{"labels":["Mon","Tue","Wed"],"series":[{"name":"direct","values":[30,25,40]},{"name":"organic","values":[20,35,25]}]}}
