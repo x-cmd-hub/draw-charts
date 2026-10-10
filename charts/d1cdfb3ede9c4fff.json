@@ -1,1 +1,0 @@
-{"template":"radar","theme":"evil","spec":{"labels":["JavaScript","Python","CSS","Node.js","React","TypeScript"],"series":[{"name":"Desktop","values":[58,72,70,76,68,84]},{"name":"Mobile","values":[34,48,44,81,38,66]}]}}
