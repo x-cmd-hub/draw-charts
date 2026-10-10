@@ -1,0 +1,1 @@
+{"template":"hbar","theme":"xcmd-issue","spec":{"labels":["0-30d","30-60d","60-90d","90-180d","180-360d","360-720d"],"series":[{"name":"新建","values":[2,1,12,5,7,7]},{"name":"关闭","values":[2,1,9,4,5,6]}]}}
