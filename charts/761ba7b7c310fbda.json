@@ -1,0 +1,1 @@
+{"template":"scatter","theme":"base","spec":{"points":[{"x":10,"y":5},{"x":20,"y":8},{"x":30,"y":7},{"x":40,"y":12},{"x":50,"y":18},{"x":60,"y":30}],"title":"Latency vs load"}}
