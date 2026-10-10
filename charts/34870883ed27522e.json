@@ -1,0 +1,1 @@
+{"template":"line","theme":"opendata","spec":{"title":"Python overtook Java around 2018","labels":["2015","2016","2017","2018","2019","2020","2021","2022"],"series":[{"name":"Python","values":[28,33,40,52,62,70,78,84]},{"name":"Java","values":[72,70,65,58,52,48,45,42]},{"name":"JavaScript","values":[45,48,50,52,54,55,56,53]}]}}
