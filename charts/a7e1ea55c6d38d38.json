@@ -1,0 +1,1 @@
+{"template":"gauge","theme":"base","spec":{"title":"Pass rate","max":100,"data":[{"label":"A","value":60},{"label":"B","value":40}]}}
