@@ -1,1 +1,0 @@
-{"template":"combo","theme":"base","spec":{"labels":["Mon","Tue","Wed","Thu","Fri"],"series":[{"name":"draw","values":[1200,1800,1500,2400,2100],"kind":"bar"},{"name":"qc","values":[900,1000,1100,1150,1200],"kind":"bar"},{"name":"growth","values":[5,8,6,12,10],"kind":"line"}]}}
