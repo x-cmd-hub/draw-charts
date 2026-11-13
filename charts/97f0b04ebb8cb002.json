@@ -1,0 +1,1 @@
+{"template":"sankey","theme":"base","spec":{"title":"ShortProbe","labels":["A","B"],"links":[{"from":"A","to":"B","value":5}]}}
