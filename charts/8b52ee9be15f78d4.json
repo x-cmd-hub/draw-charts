@@ -1,0 +1,1 @@
+{"template":"sankey","theme":"base","spec":{"title":"repoviz skill test","labels":["Events","Stream","Dashboard","ML"],"links":[{"from":"Events","to":"Stream","value":100},{"from":"Stream","to":"Dashboard","value":60},{"from":"Stream","to":"ML","value":40}]}}
