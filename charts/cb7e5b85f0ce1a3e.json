@@ -1,0 +1,1 @@
+{"template":"sankey","theme":"base","spec":{"title":"Probe via script","labels":["Frontend","API","DB"],"links":[{"from":"Frontend","to":"API","value":70},{"from":"API","to":"DB","value":50}]}}
